@@ -1,4 +1,4 @@
-Hey, I’m @encezo
+Hey, I’m encezo
 I am a Romanian guy who was likes to play games and is interested in technology. I gave up coding and I do not know when I will begin coding again.
 
 <!---
